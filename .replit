@@ -1,0 +1,2 @@
+language = "java11"
+run = "javac ./src/main/java/GuessingGameApp.java && java -classpath ./src/main/java/ GuessingGameApp"
